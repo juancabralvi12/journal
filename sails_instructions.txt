@@ -1,0 +1,11 @@
+Sails MVC
+
+** Start the application
+node app.js
+
+** Auto-refresh
+install: npm i -g nodemon
+run: nodemon
+
+** Sails morgan - For console debugging purposes
+npm install -S sails-hook-morgan
