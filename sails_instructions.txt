@@ -9,3 +9,6 @@ run: nodemon
 
 ** Sails morgan - For console debugging purposes
 npm install -S sails-hook-morgan
+
+** Axios - For making http requests from EJS
+https://github.com/axios/axios
